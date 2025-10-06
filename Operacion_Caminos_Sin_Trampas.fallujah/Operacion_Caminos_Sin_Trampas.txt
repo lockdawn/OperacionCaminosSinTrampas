@@ -1,0 +1,69 @@
+# **__Misión Oficial__**
+
+**Editor:** Cabo. lock
+**Hora:** <t:1758071700:t>
+**Mods:** operacion_caminos_sin_trampas.html
+**Cantidad de Mods:** 38
+
+**Campaña:** Ecos de Fallujah
+    **Misión 1:** Operación Caminos Sin Trampas
+    **Misión 2:** ~~Operación Viento Con Arena~~
+    **Misión 3:** ~~Operación Diplomacia Bajo Fuego~~
+
+## **__Antecedentes:__**
+La guerra nunca se fue de Fallujah. Tras la ocupación inicial y las operaciones de estabilización, la ciudad quedó marcada por el caos y el rastro de la insurgencia. Lo que a simple vista parece una urbe en calma, en realidad esconde un ambiente de constante amenaza.
+
+Los insurgentes han convertido las calles en campos minados, sembrando IEDs bajo el asfalto y en vehículos abandonados, buscando frenar cualquier movimiento aliado. Hace pocos días, tres especialistas en desactivación de explosivos (EOD), desplegados para ayudar a limpiar las calles, fueron emboscados y secuestrados. Ahora, los mantienen en casas de seguridad dentro de la ciudad como rehenes, utilizándolos como ficha de negociación y propaganda.
+
+## **__Contexto General:__**
+Para recuperar el control de Fallujah y salvar la vida de los EOD, se ha planificado una operación conjunta. El Ejército llevará la carga principal de asegurar las rutas y desactivar los explosivos, despejando el camino para las demás fuerzas. Las Fuerzas Especiales deberán infiltrarse en los barrios más comprometidos, localizar las casas de seguridad y ejecutar los rescates. La Fuerza Aérea, con un Little Bird en el aire, se encargará de proveer inteligencia constante, cobertura desde las alturas y apoyo en la extracción final de los rehenes.
+La misión no se limita a salvar vidas, también busca enviar un mensaje claro a la insurgencia: Fallujah no está bajo su control.
+
+## **__Situación Actual:__**
+Fallujah es ahora un laberinto hostil. Las arterias principales están infestadas de IEDs, los insurgentes han tomado posiciones en edificios estratégicos y francotiradores merodean desde los tejados. Los tres rehenes están distribuidos en diferentes sectores de la ciudad, bajo estricta vigilancia. La inteligencia indica que los insurgentes están preparados para reaccionar con violencia ante cualquier intento de rescate.
+La población civil, atrapada en medio de la confrontación, obliga a las fuerzas aliadas a actuar con precisión quirúrgica: cada error puede traducirse en bajas inocentes y en propaganda enemiga. El éxito de la operación depende de la coordinación entre tierra y aire, así como de la velocidad con la que se ejecuten las fases críticas.
+
+## **__Fases de la Operación:__**
+
+**Fase 1:** Infiltración y Reconocimiento
+- Las unidades del Ejército ingresarán por el flanco norte de Fallujah, asegurando los accesos iniciales. 
+- El Little Bird sobrevolará el área para identificar rutas, patrullas enemigas y posibles francotiradores.
+
+**Fase 2:** Neutralización de IEDs
+- Los equipos de EOD del Ejército comenzarán la desactivación de los artefactos explosivos en las calles principales. 
+- Las tropas regulares brindarán cobertura ante emboscadas y asegurarán un corredor seguro de avance.
+
+**Fase 3:** Localización de Casas de Seguridad
+- Con las rutas despejadas, las Fuerzas Especiales se internarán en barrios insurgentes. 
+- Utilizarán inteligencia aérea y terrestre para identificar los edificios donde se encuentran los rehenes, evitando alertar a los enemigos antes del asalto.
+
+**Fase 4:** Rescate de los Rehenes
+- Una vez confirmadas las ubicaciones, las Fuerzas Especiales ejecutarán los asaltos, liberarán a los EOD y los trasladarán a puntos seguros. 
+- El Ejército establecerá perímetros externos para evitar refuerzos enemigos.
+
+**Fase 5:** Exfiltración
+- El Little Bird descenderá en zonas seguras para evacuar a los rehenes junto con los equipos de Fuerzas Especiales.
+- El Ejército cubrirá el repliegue hasta asegurar la salida.
+
+**Fase 6:** Consolidación
+- Finalmente, las fuerzas aliadas revisarán las rutas principales para confirmar que no queden IEDs activos, consolidando el control antes de retirarse de la ciudad.
+
+## **__Nuestro Equipo:__**
+**Vehículos:**
+- 12 M1151A1 Humvee
+- 3 M1230A1 (MEDEVAC)
+
+**Helicópteros:**
+- 1 MH-60M DAP
+- 2 AH-6M Little Bird
+
+**Apoyo:**
+- 1 M977A4-B (Ammo)
+- 1 M977A4-B (Repair)
+- 1 M978A4-B (Fuel)
+
+## **__Equipo Enemigo:__**
+**Vehículos:**
+- Hillux (M2)
+- Hillux (DHSKM)
+- Hillux (BMP-1)

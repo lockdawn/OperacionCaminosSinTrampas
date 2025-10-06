@@ -1,0 +1,44 @@
+class Header
+{
+ gameType = RPG;//Coop,RPG,Sandbox,LOTH,TDM(teamdeathmatch),Zeus 
+ minPlayers = 1;//Minimo de JG
+ maxPlayers = 40;//Máximo de JG
+};
+
+// === LOAD SCREEN
+
+onLoadName 		= "Operación Caminos Sin Trampas"; //Nombre de la misión
+author 			= "Cabo lock";	//Autor								
+onLoadMission 	= "La insurgencia sembró IEDs en Fallujah y mantiene cautivos a 3 EOD. Sus calles estrechas, ruinas y barrios densos son un laberinto hostil.";
+loadScreen 		= "images\load_screen.paa"; // imagen de carga(1024x512 pixeles)
+
+class CfgWorlds // Configuraciones modifican factores que vienen con el mapa y se pueden alterar
+{
+    class any
+    {
+        author = "Cabo lock";//Arriba a la izquierda en pantalla de carga
+        description = "Fallujah, Irak";  // Arriba a la izquierda en pantalla de carga
+        pictureMap = "images\picture_map.paa"; //2048x2048
+        pictureShot = "images\picture_shot.paa"; //2048x2048
+        loadingTexts[] = {
+            "Fuerzas Especiales Latinas", //Mensajes Inferiores
+            "El propósito de toda guerra es la paz. Agustín de Hipona",
+            "Si ayudo a una sola persona a tener esperanza, no habré vivido en vano. Martin Luther King",
+            "El soldado experimentado, una vez en movimiento, nunca se desconcierta. Sun Tzu (El Arte de la Guerra)",
+			"Sólo hay una victoria decisiva: la última. Carl von Clausewitz"
+        };
+    };
+};
+
+//Garbage collection 
+minPlayerDistance = 50;
+
+corpseManagerMode = 1; //All
+corpseLimit = 15;
+corpseRemovalMinTime = 120; // seconds.
+corpseRemovalMaxTime = 1800; //seconds 
+
+wreckManagerMode = 1;
+wreckLimit = 3;
+wreckRemovalMinTime = 120;
+wreckRemovalMaxTime = 1200;
